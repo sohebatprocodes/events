@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/static/css/main.c75d69a7.chunk.css",
+    "main.js": "/static/js/main.a26ecb82.chunk.js",
+    "main.js.map": "/static/js/main.a26ecb82.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.34f9c1f0.js",
+    "runtime-main.js.map": "/static/js/runtime-main.34f9c1f0.js.map",
+    "static/js/2.d4fdfb2c.chunk.js": "/static/js/2.d4fdfb2c.chunk.js",
+    "static/js/2.d4fdfb2c.chunk.js.map": "/static/js/2.d4fdfb2c.chunk.js.map",
+    "static/js/3.a137be53.chunk.js": "/static/js/3.a137be53.chunk.js",
+    "static/js/3.a137be53.chunk.js.map": "/static/js/3.a137be53.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.c75d69a7.chunk.css.map": "/static/css/main.c75d69a7.chunk.css.map",
+    "static/js/2.d4fdfb2c.chunk.js.LICENSE.txt": "/static/js/2.d4fdfb2c.chunk.js.LICENSE.txt",
+    "static/media/logo-black-2.d62d7165.png": "/static/media/logo-black-2.d62d7165.png",
+    "static/media/savings.ce842e4d.png": "/static/media/savings.ce842e4d.png",
+    "static/media/shweta.4143eefd.jpg": "/static/media/shweta.4143eefd.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.34f9c1f0.js",
+    "static/js/2.d4fdfb2c.chunk.js",
+    "static/css/main.c75d69a7.chunk.css",
+    "static/js/main.a26ecb82.chunk.js"
+  ]
+}
